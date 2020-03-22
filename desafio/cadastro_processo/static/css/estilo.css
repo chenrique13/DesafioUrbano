@@ -1,0 +1,37 @@
+/* NavBar */
+.navbar  {
+    background: #691311;
+    font-size: 30px;
+    height: 150px;
+    border-bottom: 1px solid #333;
+    margin-bottom: 20px;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+.navbar-dark .navbar-nav a.nav-link {
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+    letter-spacing: 1px;
+}
+
+/* Conteúdo */
+.container-fluid{
+    padding: 0;
+}
+
+/* Rodapé */
+footer {
+    background-color: #352931;
+    height: 100px;
+    border-top: 2px solid #352931;
+}
+footer p {
+    font-size: 25px;
+    color: #f5f5f5;
+    text-align: center;
+    top: 30%;
+    position: relative;
+}
